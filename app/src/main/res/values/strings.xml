@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">musicPlayer</string>
+    <string name="playlist">playlist.json</string>
+    <string name="notification_channel_name">App for music</string>
+    <string name="notification_description">music player</string>
+    <string name="author_song">Author Song</string>
+    <string name="title_song">Title song</string>
+</resources>
